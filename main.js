@@ -1,6 +1,6 @@
 console.log('Hello World!');
 let lines=document.getElementsByClassName('lines');
- let words=['q','w','0','r','t','y','u','i','o','p','a','s','d','f','g','h','j','k','1','z','x','c','v','5','n','m','Q','W','E','R','T','Y','U','I','O','P','A','S','D','F','G','H','J','K','L','Z','X','C','V','B','N','M'];
+ let words=['q','w','0','r','t','y','u','i','o','p','a','s','d','f','g','h','j','k','1','z','x','c','v','5','n','m','Q','W','E','R','U','Y','U','I','O','P','A','S','D','F','G','H','J','K','L','Z','X','C','V','B','N','M'];
 let first=0;
 
 let rand;
